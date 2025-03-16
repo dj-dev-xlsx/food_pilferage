@@ -12,6 +12,7 @@ Steps to Install
   - Download and Extract the Project
   - Download the ZIP file of the project.
   - Extract the folder and place it inside C:\xampp\htdocs\.
+
 Import the Database
   - Open phpMyAdmin (http://localhost/phpmyadmin).
   - Click New, create a database named food_pilferage_db.
